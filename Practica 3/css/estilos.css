@@ -1,0 +1,32 @@
+body{
+    background-color: #fff;
+    padding-top: 50px;
+}
+
+#main-container{
+    margin: 0;
+    background-color: #fff;
+}
+
+#no-margin{
+    margin: 0px;
+    padding: 0px;
+}
+
+.badge{
+    background-color: #fff;
+    color: #101010;
+}
+
+#men{
+    background-color: #222222;
+    color: #fff;
+    border-radius: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#men:hover{
+    background-color: #7f7f8d;
+    color: #101010;
+}
