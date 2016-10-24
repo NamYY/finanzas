@@ -20,13 +20,13 @@
     							<span class="icon-bar"></span>
     							<span class="icon-bar"></span>
     						</button>
-    						<a href="index.html" class="navbar-brand">CMP</a>
+    						<a href="index.jsp" class="navbar-brand">CMP</a>
     					</div>
     					<div class="collapse navbar-collapse" id="menu">
     						<ul class="nav navbar-nav">
-    						    <li><a href="intro.html">Introducción</a></li>
-    							<li><a href="lista.html">Empresas listadas</a></li>
-    							<li><a href="compara.html">Comparar empresas</a></li>
+    						    <li><a href="intro.jsp">Introducción</a></li>
+    							<li><a href="lista.jsp">Empresas listadas</a></li>
+    							<li><a href="compara.jsp">Comparar empresas</a></li>
     						</ul>
     					</div>
     				</div>
@@ -38,7 +38,8 @@
     		    <h1>
     		        Bienvenido a <strong>CMP</strong><br>
                     <p><strong>CMP</strong> 
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis facere voluptatibus provident, pariatur perferendis deleniti impedit quia voluptatum itaque! Perspiciatis dolorum illum minima in alias odio culpa vitae reprehenderit doloribus!</p>
+                    CMP es un sistema de comparación entre empresas de la bola mexicana de valores, CMP te permitira saber los estados financieros de la empresas de la bolasa mexicana, ademas de compararlas mediante razones financieras.
+                    </p>
     		    </h1>
     		</div>
     		<br>

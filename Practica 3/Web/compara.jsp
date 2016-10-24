@@ -20,13 +20,13 @@
     							<span class="icon-bar"></span>
     							<span class="icon-bar"></span>
     						</button>
-    						<a href="index.html" class="navbar-brand">CMP</a>
+    						<a href="index.jsp" class="navbar-brand">CMP</a>
     					</div>
     					<div class="collapse navbar-collapse" id="menu">
     						<ul class="nav navbar-nav">
-    						    <li><a href="intro.html">Introducción</a></li>
-    							<li><a href="lista.html">Empresas listadas</a></li>
-    							<li><a href="compara.html">Comparar empresas</a></li>
+    						    <li><a href="intro.jsp">Introducción</a></li>
+    							<li><a href="lista.jsp">Empresas listadas</a></li>
+    							<li><a href="compara.jsp">Comparar empresas</a></li>
     						</ul>
     					</div>
     				</div>
